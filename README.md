@@ -1,1 +1,1 @@
-# The-Bot-iOX-Project
+# The BOT-iOX Project
