@@ -12,8 +12,7 @@ This is based on node.js and is made by Plixin Inc
 	cd (folder_name_here)
 	```
   Remember to replace folder_name_here with your folder name.
-4.  Then
- 
-	npm index.js
+  
+4. Then type "npm index.js"
 
 # You are done!
