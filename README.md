@@ -2,7 +2,9 @@
 This is the BOT-iOX Discord Bot Project, this is an project to help people make their own discord bot.
 Please note that you atleast need to know how to run node.js files.
 # Info
-This is based on node.js and is made by Plixin Inc. This is an open source software.
+This is a bot designed to help you make your own bot and then share it, A project proudly made with Plixin Inc. 
+# About the version and updates
+This Pre-Release, (v1.2-alpha) only supports "Hello" and replys in the terminal "bot has said Hello".
 # How to use
 1. Install node.js by going to https://nodejs.org/en/download/ and downloading for your OS.
 2. Open up a terminal window, make a folder, then download the files there.
