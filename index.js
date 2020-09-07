@@ -13,6 +13,7 @@ client.on('message', message => {
 	if (message.content === 'Hello') {
         // send back "Pong." to the channel the message was sent in
         message.channel.send('hello to you too.');
+        console.log('Bot has said "hello to you too"');
 	}
 });
 
