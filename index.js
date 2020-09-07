@@ -6,7 +6,7 @@ const client = new Discord.Client();
 
 // When the app is ready it will write out Ready using this
 client.once('ready', () => {
-	console.log('Ready!');
+	console.log('BOT-iOX is now ready. Made by PLIXIN INC© 2020, BOT-iOX are all owned by PLIXIN INC©. This project is fully open-source and is available at its project page. ');
 });
 
 client.on('message', message => {
