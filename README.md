@@ -15,6 +15,13 @@ This Pre-Release, (v1.2-alpha) only supports "Hello" and replys in the terminal 
 	```
   Remember to replace folder_name_here with your folder name.
   
-4. Then type "npm index.js"
+4. Then type 
+     ```bash
+	npm install 
+	```
+5. Then type 
+     ```bash
+	npm index.js
+	```
 
 # You are done!
