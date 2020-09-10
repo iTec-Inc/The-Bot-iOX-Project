@@ -12,8 +12,8 @@ client.once('ready', () => {
 client.on('message', message => {
 	if (message.content === 'help') {
         // send back "Pong." to the channel the message was sent in
-        message.channel.send('This is the BOT-iOX project which helps people make bots, This Project is made by PLIXIN INC, And is available open-source from the project page. ');
-        console.log('Bot has said "This is the BOT-iOX project which helps people make bots, This Project is made by PLIXIN INC, And is available open-source from the project page. "');
+        message.channel.send('This is the BOT-iOX project which helps people make bots, This Project is made by PLIXIN INC, And is available open-source from the project page. Made by PLIXIN INC© 2020, BOT-iOX and its related goods are all owned by PLIXIN INC©. This project is fully open-source and is available at its project page.');
+        console.log('Bot has said "This is the BOT-iOX project which helps people make bots, This Project is made by PLIXIN INC, And is available open-source from the project page. Made by PLIXIN INC© 2020, BOT-iOX and its related goods are all owned by PLIXIN INC©. This project is fully open-source and is available at its project page."');
 	}
 });
 
@@ -46,6 +46,38 @@ client.on('message', message => {
         // send back "Pong." to the channel the message was sent in
         message.channel.send('hello to you too.');
         console.log('Bot has said "hello to you too"');
+	}
+});
+
+client.on('message', message => {
+	if (message.content === 'lol') {
+        // send back "Pong." to the channel the message was sent in
+        message.channel.send('Lol');
+        console.log('Bot has said "Lol"');
+	}
+});
+
+client.on('message', message => {
+	if (message.content === 'LOL') {
+        // send back "Pong." to the channel the message was sent in
+        message.channel.send('Lol');
+        console.log('Bot has said "Lol"');
+	}
+});
+
+client.on('message', message => {
+	if (message.content === 'omg') {
+        // send back "Pong." to the channel the message was sent in
+        message.channel.send('Omg');
+        console.log('Bot has said "Omg"');
+	}
+});
+
+client.on('message', message => {
+	if (message.content === 'OMG') {
+        // send back "Pong." to the channel the message was sent in
+        message.channel.send('Omg');
+        console.log('Bot has said "Omg"');
 	}
 });
 
