@@ -6,7 +6,8 @@ This is a bot designed to help you make your own bot and then share it, A projec
 # Notes
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
 # About the version and updates
-This Pre-Release, (v1.2-alpha) only supports "Hello" and replys in the terminal "bot has said Hello".
+This Release only supports some words and replys in the terminal "bot has said <message>"
+	
 # How to use
 1. Install node.js by going to https://nodejs.org/en/download/ and downloading for your OS.
 2. Open up a terminal window, make a folder, then download the files there.
