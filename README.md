@@ -3,6 +3,11 @@ This is the BOT-iOX Discord Bot Project, this is an project to help people make 
 Please note that you atleast need to know how to run node.js files.
 # Info
 This is a bot designed to help you make your own bot and then share it, A project proudly made with JetPack Inc. 
+# Sponsor Us!
+We are always looking for kind people who want to help us make this into a supergiant project! Sponsor us and get premium featues! :) Thanks a lot! 
++ The link is below, and on the side of this website.
++ https://liberapay.com/JetPack_Inc/donate
+
 # Notes
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
 # About the version and updates
