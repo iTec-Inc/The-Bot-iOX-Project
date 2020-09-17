@@ -1,8 +1,10 @@
 # The BOT-iOX Project
 This is the BOT-iOX Discord Bot Project, this is an project to help people make their own discord bot.
-Please note that you atleast need to know how to run node.js files.
+Please note that you atleast need to know how to run node.js files. 
++ PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
 # Info
-This is a bot designed to help you make your own bot and then share it, A project proudly made with JetPack Inc. 
+This is a bot designed to help you make your own bot and then share it, A project proudly made with JetPack Inc.
++ PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
 # Sponsor Us!
 We are always looking for kind people who want to help us make this into a supergiant project! Sponsor us and get premium featues! :) Thanks a lot! 
 + The link is below, and on the side of this website.
@@ -10,10 +12,12 @@ We are always looking for kind people who want to help us make this into a super
 
 # Notes
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
++ PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
 # About the version and updates
 This Release only supports some words and replys in the terminal "bot has said <message>"
 	
 # How to use
++ PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
 1. Install node.js by going to https://nodejs.org/en/download/ and downloading for your OS.
 2. Open up a terminal window, make a folder, then download the files there.
 2. Go to the bottom of the file "index.js" then replace (your-token-here) with your bots token.
