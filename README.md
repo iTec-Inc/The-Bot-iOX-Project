@@ -9,7 +9,7 @@ This is a bot designed to help you make your own bot and then share it, A projec
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
 # About the version and updates
-There will be a new update (v3.0) In the update we will move from node.js to python. look in the wiki for more info.
+There will be a new update (v2.0) In the update we will move from node.js to python. look in the wiki for more info.
 	
 # How to use
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
