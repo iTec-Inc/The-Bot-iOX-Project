@@ -15,7 +15,8 @@ Look in the Wiki for Infomation.
 	cd (folder_name_here)
 	```
   Remember to replace folder_name_here with your folder name.
+4. Then type "npm install" 
   
-4. Then type "npm index.js"
+5. Then type "npm index.js"
 
 # You are done!
