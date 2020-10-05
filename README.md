@@ -14,7 +14,7 @@ We are always looking for kind people who want to help us make this into a super
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
 # About the version and updates
-This Release only supports some words and replys in the terminal "bot has said <message>"
+There will be a new update (v3.0) In the update we will move from node.js to python. look in the wiki for more info.
 	
 # How to use
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
