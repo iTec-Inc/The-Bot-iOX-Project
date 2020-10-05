@@ -13,22 +13,9 @@ There will be a new update (v3.0) In the update we will move from node.js to pyt
 	
 # How to use
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
-1. Install node.js by going to https://nodejs.org/en/download/ and downloading for your OS.
-2. Open up a terminal window, make a folder, then download the files there.
-2. Go to the bottom of the file "index.js" then replace (your-token-here) with your bots token.
-3. Go to the folder with 
-     ```bash
-	cd (folder_name_here)
-	```
-  Remember to replace folder_name_here with your folder name.
-  
-4. Then type 
-     ```bash
-	npm install 
-	```
-5. Then type 
-     ```bash
-	npm index.js
-	```
+1. Install Python from the Windows Store. (3.8)
+2. Run the Program.
+3. Enter your TOKEN. 
+4. Enjoy!
 
 # You are done!
