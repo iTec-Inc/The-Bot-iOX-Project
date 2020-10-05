@@ -15,8 +15,15 @@ Look in the Wiki for Infomation.
 	cd (folder_name_here)
 	```
   Remember to replace folder_name_here with your folder name.
-4. Then type "npm install" 
   
-5. Then type "npm index.js"
+4. Then type 
+     ```bash
+	npm install
+	```
+  
+5. Then type 
+     ```bash
+	npm index.js
+	```
 
 # You are done!
