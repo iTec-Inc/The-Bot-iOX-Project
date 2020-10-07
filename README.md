@@ -5,6 +5,8 @@ Please note that you atleast need to know how to run node.js files.
 # Info
 This is a bot designed to help you make your own bot and then share it, A project proudly made with JetPack Inc.
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
+# Contributing
+To add more support for more words, fill out the ![form](https://forms.gle/cCwuWSkNXt8ZMjyZ9)
 # Notes
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
