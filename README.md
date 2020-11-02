@@ -12,15 +12,26 @@ To add more support for more words, fill out the [form](https://forms.gle/cCwuWS
 # Notes
 Please note that this is not compiled, (.exe) and never will be, because of specific things. Instead you will have to run it form the source code.
 + PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
-# About the version and updates
-There will be a new update (v2.0) In the update we will move from node.js to python. look in the wiki for more info.
-	
-# How to use
-+ PLEASE NOTE THAT DO NOT DOWNLOAD THE CODE DIRECTLY BUT DOWNLOAD ONE OF THE RELEASES!
-+ To update your BOT-iOX to the latest version (reccomended) go to [UPDATING.md](UPDATING.md)
-1. Install Python from the Windows Store. (3.8)
-2. Run the Program.
-3. Enter your TOKEN. 
-4. Enjoy!
 
-# You are done!
+# How to use
+1. Install node.js by going to https://nodejs.org/en/download/ and downloading for your OS.
+2. Open up a terminal window, make a folder, then download the files there.
+2. Go to the bottom of the file "index.js" then replace (your-token-here) with your bots token.
+3. Go to the folder with 
+     ```bash
+	cd (folder_name_here)
+	```
+  Remember to replace folder_name_here with your folder name.
+  
+4. Then type 
+     ```bash
+	npm install
+	```
+  
+5. Then type 
+     ```bash
+	npm index.js
+	```
+=======
+There will be a new update (v2.0) In the update we will move from node.js to python. look in the wiki for more info.
+
