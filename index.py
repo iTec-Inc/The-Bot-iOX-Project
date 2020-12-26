@@ -21,7 +21,7 @@ async def hello(ctx):
     await ctx.send("Hi.")
     print('Bot-iOX has said "Hi"')
     
-    @bot.command	()
+@bot.command    ()
 async def hi(ctx):
     """Says Hello."""
     await ctx.send("Hello.")
